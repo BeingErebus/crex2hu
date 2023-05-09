@@ -1,0 +1,30 @@
+{
+  "prefix": ">",
+  "bot_token": "",
+  "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
+  "ownerID": [
+    "909273123122184212", "", ""
+  ],
+  "SpotifyID": "aece5b4d7d27426ebef592a75bd43a2c",
+  "SpotifySecret": "79a8a54525324e9aa3291eeb880ff287",
+  "mongourl": "mongodb+srv://Sahil:sahilsamir1234567890@dark.rzq0vr0.mongodb.net/?retryWrites=true&w=majority",
+  "support": "https://discord.gg/crexbot",
+  "embedColor": "#2f3136",
+  "logs1": "000000000000000000",
+  "logs": "000000000000000000",
+  "logs2": "000000000000000000",
+  "nodes": {
+    "id": "main",
+    "host": "lavalink.botsuniversity.ml",
+    "port": 443,
+    "password": "mathiscool",
+    "secure": true
+  },
+  "Webhooks": {
+    "bot_error": "https://discord.com/api/webhooks/1072217122454904893/79_pmIw3IEY_7pPgVsO2lpJuxkjGWUm9HAM_99VfSAi4YbsEUV-nGFs1RRi6Eb5YP9od",
+    "server_add": "https://discord.com/api/webhooks/1072217122454904893/79_pmIw3IEY_7pPgVsO2lpJuxkjGWUm9HAM_99VfSAi4YbsEUV-nGFs1RRi6Eb5YP9od",
+    "server_remove": "https://discord.com/api/webhooks/1072217122454904893/79_pmIw3IEY_7pPgVsO2lpJuxkjGWUm9HAM_99VfSAi4YbsEUV-nGFs1RRi6Eb5YP9od",
+    "player_create": "https://discord.com/api/webhooks/1072217122454904893/79_pmIw3IEY_7pPgVsO2lpJuxkjGWUm9HAM_99VfSAi4YbsEUV-nGFs1RRi6Eb5YP9od",
+    "player_delete": "https://discord.com/api/webhooks/1072217122454904893/79_pmIw3IEY_7pPgVsO2lpJuxkjGWUm9HAM_99VfSAi4YbsEUV-nGFs1RRi6Eb5YP9od"
+  }
+}
